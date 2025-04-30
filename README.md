@@ -1,3 +1,3 @@
 <p align="center">
-  <strong>## Sem enfeite. 🧱</strong>
+  <h1>Sem enfeite.</h1>
 </p>
